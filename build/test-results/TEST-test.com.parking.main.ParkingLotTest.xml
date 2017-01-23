@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.com.parking.main.ParkingLotTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2017-01-23T18:17:10" hostname="tmc.local" time="0.015">
+  <properties/>
+  <testcase name="testGetCarParkingSlotsWithColor" classname="test.com.parking.main.ParkingLotTest" time="0.005"/>
+  <testcase name="testLeaveParkedVehicle" classname="test.com.parking.main.ParkingLotTest" time="0.0"/>
+  <testcase name="testGetCarRegistrationNumsWithColor" classname="test.com.parking.main.ParkingLotTest" time="0.001"/>
+  <testcase name="testCreateParkingLot" classname="test.com.parking.main.ParkingLotTest" time="0.0"/>
+  <testcase name="testGetSlotNumberForRegistrationNumber" classname="test.com.parking.main.ParkingLotTest" time="0.0"/>
+  <testcase name="testStatus" classname="test.com.parking.main.ParkingLotTest" time="0.001"/>
+  <testcase name="testParkingFull" classname="test.com.parking.main.ParkingLotTest" time="0.0"/>
+  <testcase name="testParkVehicle" classname="test.com.parking.main.ParkingLotTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
